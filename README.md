@@ -52,7 +52,8 @@ https://khoahockythuathtm.violet.vn/
 
 ### Thư viện tài liệu
 ![Thư viện](docs/thuvien.png)
+
+![Quản trị](docs/admin.png)
 Nhóm tác giả:
 Lê Thiện Đạt và Cơ Hoàn Thiện  — Học Sinh Lớp 9, Trường THCS Hồ Tùng Mậu, Eawer, Đắk Lắk | Điện thoại: 0976762220
 ### Trang quản trị
-![Quản trị](docs/admin.png)
