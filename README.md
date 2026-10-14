@@ -37,3 +37,4 @@ http://localhost:8000/
 ## Ghi chú
 
 Dự án hiện đang ở dạng giao diện demo / landing page và có thể được mở rộng thành ứng dụng web hoàn chỉnh trong tương lai.
+## Nhóm tác giả: Cơ Hoàn Thiện & Lê Thiện Đạt- Học sinh lớp 9, Trường THCS Hồ Tùng Mậu, Eawer, Daklak.
