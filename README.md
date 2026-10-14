@@ -1,63 +1,39 @@
-DỰ ÁN: AI SCHOOL-XÂY DỰNG NỀN TẢNG HỖ TRỢ HỌC TẬP VÀ TRA CỨUTHÔNG TIN NHÀ TRƯỜNG ỨNG DỤNG TRÍ TUỆ NHÂN TẠOTRÊN WEBSITE VIOLET.
-TÊN GỌI NGẮN: AI SCHOOL – Nền tảng trường học thông minh.
-AI SCHOOL là dự án nghiên cứu và phát triển một nền tảng hỗ trợ học tập và tra cứu thông tin nhà trường, sử dụng website Violet làm điểm truy cập chính và khai thác các công cụ trí tuệ nhân tạo (AI) trong phạm vi phù hợp với nguồn lực của học sinh THCS. Website thử nghiệm được sử dụng trong dự án là:  https://khoahockythuathtm.violet.vn/ . Nhóm sẽ khảo sát giao diện hiện tại, xác định nhu cầu của học sinh và giáo viên, sau đó thiết kế một quy trình truy cập rõ ràng hơn tới học liệu, thông tin công khai và trợ lý AI.
-Trọng tâm nghiên cứu không phải chỉ bổ sung nhiều nút hoặc liên kết tới chatbot có sẵn. Dự án cần xác định một vấn đề có thể đo lường: liệu giao diện được tổ chức theo nhiệm vụ, hướng dẫn hỏi AI và quy trình kiểm chứng câu trả lời có giúp người dùng hoàn thành một số nhiệm vụ nhanh hơn, thuận tiện hơn và với ít lỗi hơn hay không. Đối với chức năng AI, nhóm sẽ xây dựng bộ câu hỏi có đáp án chuẩn, phân loại câu trả lời đúng/sai/thiếu căn cứ và ghi nhận những trường hợp AI cần yêu cầu người dùng bổ sung thông tin.
-Sản phẩm dự kiến gồm: website/nguyên mẫu AI SCHOOL; sơ đồ chức năng và tài liệu hướng dẫn; bộ câu hỏi kiểm thử; dữ liệu thử nghiệm đã ẩn danh; báo cáo đánh giá; nhật ký nghiên cứu và video trình diễn. Dự án không thay thế hệ thống quản lý học sinh chính thức, không truy cập trái phép dữ liệu nội bộ, không tự động quyết định điểm số hoặc các vấn đề hành chính.
-Kết quả chỉ được kết luận sau khi thực nghiệm
-## Giao diện hệ thống
+# AI SCHOOL - Nền tảng trường học thông minh
 
-### Trang chủ
+Dự án này là một giao diện web tĩnh cho hệ thống `AI SCHOOL`, nhằm hỗ trợ:
+- Quản lý trường học thông minh
+- Tra cứu thông tin và tài liệu học tập
+- Tạo trải nghiệm người dùng thân thiện trên nền tảng web
 
-![Trang chủ](docs/home.png)
+## Mục tiêu
 
-### Chatbot AI
+- Hiển thị giao diện chính của nền tảng AI School
+- Làm nền tảng cho việc phát triển các tính năng học tập/tra cứu thông minh
+- Dễ triển khai và chỉnh sửa trên môi trường web tĩnh
 
-![Chatbot](docs/chatbot.png)
+## Cấu trúc dự án
 
-### Quản trị
+- `index.html` — giao diện chính của trang web
+- `ai-school-home.html` — phiên bản màn hình home bổ sung
+- `README.md` — tài liệu mô tả dự án
+- `khkt2.jpg` — hình ảnh tài nguyên
 
-![Quản trị](docs/admin.png)
+## Chạy dự án
 
-### Thư viện tài liệu
+Vì đây là dự án web tĩnh, bạn có thể mở trực tiếp file `index.html` trên trình duyệt hoặc sử dụng máy chủ tĩnh đơn giản.
 
-![Thư viện](docs/library.png)
-# AI SCHOOL – Nền tảng trường học thông minh
+Ví dụ:
 
-## Giới thiệu
+```bash
+python -m http.server 8000
+```
 
-DỰ ÁN: AI SCHOOL- XÂY DỰNG NỀN TẢNG HỖ TRỢ HỌC TẬP VÀ TRA CỨUTHÔNG TIN NHÀ TRƯỜNG ỨNG DỤNG TRÍ TUỆ NHÂN TẠO
-TRÊN WEBSITE VIOLET.
+Sau đó truy cập:
 
-Tên gọi ngắn: AI SCHOOL – Nền tảng trường học thông minh
+```text
+http://localhost:8000/
+```
 
-Địa chỉ sản phẩm thử nghiệm:
-https://khoahockythuathtm.violet.vn/ 
+## Ghi chú
 
-
-## Công nghệ sử dụng
-
-- ReactJS
-- Node.js
-- ExpressJS
-- MongoDB
-- JavaScript
-
-## Giao diện hệ thống
-
-### Trang chủ
-![Trang chủ](docs/trangchu.png)
-
-### Chatbot AI
-![Chatbot](docs/chatbot.png)
-
-### Thư viện tài liệu
-![Thư viện](docs/thuvien.png)
-
-![Quản trị](docs/admin.png)
-### Trang quản trị
- ### Nhóm tác giả:
-Lê Thiện Đạt và Cơ Hoàn Thiện  — Học Sinh Lớp 9, Trường THCS Hồ Tùng Mậu, Eawer, Đắk Lắk | Điện thoại: 0976762220
- 
-
-
-
+Dự án hiện đang ở dạng giao diện demo / landing page và có thể được mở rộng thành ứng dụng web hoàn chỉnh trong tương lai.
