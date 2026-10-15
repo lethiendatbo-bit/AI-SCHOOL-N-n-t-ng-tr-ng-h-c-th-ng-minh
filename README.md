@@ -38,3 +38,6 @@ http://localhost:8000/
 
 Dự án hiện đang ở dạng giao diện demo / landing page và có thể được mở rộng thành ứng dụng web hoàn chỉnh trong tương lai.
 ## Nhóm tác giả: Cơ Hoàn Thiện & Lê Thiện Đạt- Học sinh lớp 9, Trường THCS Hồ Tùng Mậu, Eawer, Daklak.
+Nhóm tác giả: Lê Thiện Đạt & Cơ Hoàn Thiện – Học sinh lớp 9, Trường THCS Hồ Tùng Mậu, Eawer, Đắk Lắk | Điện thoại: 0976762220
+<img width="1738" height="66" alt="image" src="https://github.com/user-attachments/assets/e87bce8c-7283-41be-b54a-bb6b3fe3466d" />
+
