@@ -1,4 +1,5 @@
-# AI SCHOOL - Nền tảng trường học thông minh
+# AI SCHOOL - Nền tảng trường học thông minh.
+https://khoahockythuathtm.violet.vn/ 
 
 Dự án này là một giao diện web tĩnh cho hệ thống `AI SCHOOL`, nhằm hỗ trợ:
 - Quản lý trường học thông minh
@@ -20,7 +21,8 @@ Dự án này là một giao diện web tĩnh cho hệ thống `AI SCHOOL`, nh�
 
 ## Chạy dự án
 
-Vì đây là dự án web tĩnh, bạn có thể mở trực tiếp file `index.html` trên trình duyệt hoặc sử dụng máy chủ tĩnh đơn giản.
+Vì đây là dự án web tĩnh, bạn có thể mở trực tiếp file `index.html` trên trình duyệt hoặc sử dụng máy chủ tĩnh đơn giản/ 
+ AI SCHOOL - Nền tảng trường học thông minh.:  https://khoahockythuathtm.violet.vn/ 
 
 Ví dụ:
 
