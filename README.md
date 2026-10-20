@@ -46,12 +46,14 @@ Trong bối cảnh đó, một nền tảng nhỏ, dễ dùng, tận dụng webs
 2. Thiết kế và phương pháp nghiên cứu (Mục tiêu giải pháp):
 - XÂY DỰNG NỀN TẢNG HỖ TRỢ HỌC TẬP VÀ TRA CỨU THÔNG TIN NHÀ TRƯỜNG ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TRÊN WEBSITE VIOLET  thành nền tảng AI SCHOOL tích hợp trí tuệ nhân tạo nhằm hỗ trợ tra cứu thông tin, khai thác học liệu số, hỗ trợ giáo viên trong công tác giảng dạy, hỗ trợ học sinh tự học và nâng cao hiệu quả quản lý nhà trường. Giải pháp hướng đến xây dựng môi trường giáo dục số hiện đại, dễ triển khai, chi phí hợp lý và có khả năng nhân rộng tại các cơ sở giáo dục khác.
 -	Có sản phẩm website thử nghiệm cụ thể để khảo sát, thiết kế và cải tiến:
-Địa chỉ sản phẩm thử nghiệm:  https://khoahockythuathtm.violet.vn/  
+Địa chỉ sản phẩm thử nghiệm:  https://khoahockythuathtm.violet.vn/   
 -	Vấn đề có liên quan trực tiếp đến học tập số: tìm tài nguyên, truy cập thông tin công khai và sử dụng trợ lý AI.
 -	Có khả năng tận dụng công cụ sẵn có và chi phí thấp, phù hợp điều kiện học sinh.
 -	Đề tài tạo cơ hội rèn kỹ năng lập Webste , tư duy phản biện, đánh giá nguồn tin, làm việc nhóm và đạo đức số.
-3. Thực hiện thử nghiệm:
- 
+3. Thực hiện thử nghiệm trên Website sau khi xây dựng:
+- Vừa đăng tải thông tin, vừa có tích hợp AI,  công cụ hỗ trợ học tập và quản lý thông minh.
+- Học sinh, Thầy, cô và phụ huynh tìm kiếm văn bản, học liệu và được hỗ trợ kịp thời,  chỉ việc đặt câu hỏi cho trợ lý AI là có câu trả lời mọi lúc mọi nơi. Tất cả đều ngay trên website của trường.Tối ưu hóa free cho thầy, cô – HS- PH.
+-Ứng dụng AI để nâng cao hiệu quả giảng dạy, học tập và quản lý nhà trường. Hướng đến xây dựng môi trường giáo dục số hiện đại.
 4.Tính sáng tạo và tác động tiềm năng (TỔNG QUAN GIẢI PHÁP):
 Giải pháp AI SCHOOL là mô hình XÂY DỰNG NỀN TẢNG HỖ TRỢ HỌC TẬP VÀ TRA CỨU THÔNG TIN NHÀ TRƯỜNG ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TRÊN WEBSITE VIOLET  thành nền tảng trường học thông minh ứng dụng trí tuệ nhân tạo (AI). Giải pháp tích hợp trợ lý AI, thư viện học liệu số, công cụ hỗ trợ giảng dạy và các tiện ích giáo dục trên cùng một hệ thống, giúp giáo viên, học sinh và phụ huynh tra cứu thông tin, khai thác học liệu và hỗ trợ dạy học hiệu quả. Với việc tận dụng hạ tầng website hiện có, giải pháp có chi phí triển khai thấp, dễ mở rộng và có khả năng nhân rộng tại các cơ sở giáo dục khác.
 
