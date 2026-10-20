@@ -39,6 +39,7 @@ http://localhost:8000/
 ## Ghi chú
 
 Dự án hiện đang ở dạng giao diện demo / landing page và có thể được mở rộng thành ứng dụng web hoàn chỉnh trong tương lai:
+
 VẤN ĐỀ VÀ MỤC TIÊU GIẢI PHÁP
 1.	Vấn đề
 Website trường học và cổng thông tin giáo dục thường cung cấp bài viết, thông báo, tài nguyên học tập và liên kết đến những dịch vụ khác nhau. Khi các chức năng phân tán, người dùng có thể mất thời gian tìm đúng mục hoặc chưa biết cách sử dụng AI để học tập một cách có trách nhiệm. Công cụ AI có thể hỗ trợ giải thích kiến thức, gợi ý cách làm và định hướng tìm tài liệu, nhưng cũng có nguy cơ trả lời sai, thiếu nguồn hoặc đưa ra thông tin không còn cập nhật.
